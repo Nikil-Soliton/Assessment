@@ -8,5 +8,6 @@ namespace HotelManagement
 {
     internal class Manager
     {
+        skhujerg kyj gaj,hbkcejuk8o
     }
 }
